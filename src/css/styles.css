@@ -15,6 +15,20 @@ body {
 #search-box {
   font: inherit;
   padding: 8px;
-  max-width: 320px;
   margin-bottom: 16px;
+  width: 1235px;
+}
+
+.title{
+  font-size: 40px;
+  color: red;
+  text-align: center;
+}
+
+.input {
+  font-style: 24px;
+  border-radius: 10px;
+  margin-top: 50px;
+  width: 100px;
+
 }

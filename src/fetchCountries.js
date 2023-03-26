@@ -9,3 +9,4 @@ function fetchCountries(name) {
       return data;
     });
 }
+
